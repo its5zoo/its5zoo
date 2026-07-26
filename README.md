@@ -1,12 +1,6 @@
 <div align="center">
 
-<!-- 
-  Header Animation: 
-  This references './nobita-coding.gif' in your repository root.
-  Once you commit your Nobita coding GIF to the repository, it will automatically load here!
-  We've also set up a default fallback lofi coding animation just in case.
--->
-<img src="./nobita-coding.gif" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/Akshat7garg/Akshat7garg/main/lofi_room.gif';" width="100%" alt="Nobita Coding Lofi" style="border-radius: 12px; max-width: 650px; margin-bottom: 20px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);"/>
+<img src="./ME.gif" width="100%" alt="Faizaan Header GIF" style="border-radius: 12px; max-width: 650px; margin-bottom: 20px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8931EF,100:F75C7E&height=180&section=header&text=Hi%20There%2C%20I%27m%20Faizaan%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI-Powered%20Full-Stack%20Developer%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&descSize=18" width="100%" alt="header banner"/>
 
