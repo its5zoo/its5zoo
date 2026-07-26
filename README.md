@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/its5zoo/its5zoo/main/ME.gif" width="100%" alt="Faizaan Header GIF" style="border-radius: 16px; max-width: 680px; margin-bottom: 20px; box-shadow: 0 12px 40px rgba(122, 11, 192, 0.45); border: 2px solid rgba(255, 255, 255, 0.15);"/>
-
-<img src="https://raw.githubusercontent.com/its5zoo/its5zoo/main/banner.svg" width="100%" alt="Md Faizaan Raza Khan Banner" style="max-width: 680px; margin-bottom: 20px;"/>
+<img src="https://raw.githubusercontent.com/its5zoo/its5zoo/main/ME.gif" width="100%" alt="Faizaan Header GIF" style="border-radius: 16px; max-width: 680px; margin-bottom: 25px; box-shadow: 0 12px 40px rgba(122, 11, 192, 0.45); border: 2px solid rgba(255, 255, 255, 0.15);"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=💻+Building+Next-Gen+MERN+Stack+Apps;🧠+Deep+Diving+into+AI,+ML+%26+Agentic+Systems;🎓+B.Tech+CSE+Student+%7C+9.17+CGPA;🧩+Solving+DSA+in+C%2B%2B+Daily)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&width=700&lines=✨+Md+Faizaan+Raza+Khan;🚀+AI-Powered+Full-Stack+Developer;🧠+Data+Science+%26+ML+Explorer;🎓+B.Tech+CSE+%7C+9.17+CGPA)](https://git.io/typing-svg)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=💻+Building+Next-Gen+MERN+Stack+Apps;⚡+Consistency+Beats+Talent+-+1%25+Daily;🧩+Solving+DSA+in+C%2B%2B+Daily)](https://git.io/typing-svg)
 
 </div>
 
