@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/its5zoo/its5zoo/main/ME.gif" width="100%" alt="Faizaan Header GIF" style="border-radius: 16px; max-width: 680px; margin-bottom: 20px; box-shadow: 0 12px 40px rgba(122, 11, 192, 0.45); border: 2px solid rgba(255, 255, 255, 0.15);"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=✨%20Md%20Faizaan%20Raza%20Khan%20✨&fontSize=38&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=🚀%20Full-Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Enthusiast&descAlignY=60&descSize=18&descColor=00F5D4" width="100%" alt="header banner"/>
+<img src="https://raw.githubusercontent.com/its5zoo/its5zoo/main/header_banner.png" width="100%" alt="Md Faizaan Raza Khan Banner" style="border-radius: 14px; max-width: 680px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
 
 <br/>
 
@@ -140,9 +140,5 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=its5zoo&icon=2&color=00F5D4)](https://visitcount.itsvg.in)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,50:7A0BC0,100:00F5D4&height=120&section=footer" width="100%"/>
 
 </div>
