@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/its5zoo/its5zoo/main/ME.gif" width="100%" alt="Faizaan Header GIF" style="border-radius: 16px; max-width: 680px; margin-bottom: 20px; box-shadow: 0 12px 40px rgba(122, 11, 192, 0.45); border: 2px solid rgba(255, 255, 255, 0.15);"/>
 
-<img src="https://raw.githubusercontent.com/its5zoo/its5zoo/main/header_banner.png" width="100%" alt="Md Faizaan Raza Khan Banner" style="border-radius: 14px; max-width: 680px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
+<img src="https://raw.githubusercontent.com/its5zoo/its5zoo/main/banner.svg" width="100%" alt="Md Faizaan Raza Khan Banner" style="max-width: 680px; margin-bottom: 20px;"/>
 
 <br/>
 
